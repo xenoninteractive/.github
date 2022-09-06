@@ -1,4 +1,4 @@
-# Welcome to the official home of Xenon Interactive on Github
+# The official home of Xenon Interactive on Github
 
 
 Xenon Interactive is a next-generation application design and development studio. We specialize in producing immersive and interactive experiences that capture hearts, minds and souls. Our range of services covers the entire app spectrum; from consumer-focused product launch microsites and tactical mobile apps to enterprise-wide solutions aimed at employees, shareholders and other internal stakeholders.
